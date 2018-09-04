@@ -20,5 +20,5 @@ For detailed explanation on how things work, consult the [docs for vue-loader](h
 ## 使用
 
 ```bash
-
+yarn add h-model-back
 ```
