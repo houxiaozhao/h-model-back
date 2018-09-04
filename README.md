@@ -18,20 +18,18 @@ npm run build
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
-## 使用
+## 使用，以 elementui 的 dialog 为例
 
 ```bash
 yarn add h-model-back
 ```
 
-#### 第一种
+#### 第一种（很多地方都用）
 
 ```javascript
 import HModelBack from 'h-model-back';
 Vue.use(HModelBack);
 ```
-
-以 elementui 的 dialog 为例
 
 ```html
 <template>
@@ -48,7 +46,6 @@ Vue.use(HModelBack);
 </div>
 </template>
 <script>
-import HModelBack from 'h-model-back';
 export default {
   name: 'index',
   data() {
@@ -57,7 +54,7 @@ export default {
 }
 ```
 
-#### 第二种
+#### 第二种（用的地方少）
 
 ```html
 <template>
