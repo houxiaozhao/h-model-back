@@ -1,7 +1,7 @@
 {
   "name": "h-model-back",
   "description": "为模态框监听返回按钮的vue插件",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "author": "houguizhao <891855179@qq.com>",
   "license": "MIT",
   "private": false,
@@ -34,5 +34,11 @@
     "vue-template-compiler": "^2.4.4",
     "webpack": "^3.6.0",
     "webpack-dev-server": "^2.9.1"
-  }
+  },
+  "keywords": [
+    "vue",
+    "model",
+    "dlalog",
+    "back"
+  ]
 }
