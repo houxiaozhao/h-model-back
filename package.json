@@ -1,7 +1,7 @@
 {
   "name": "h-model-back",
   "description": "为模态框监听返回按钮的vue插件",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "author": "houguizhao <891855179@qq.com>",
   "license": "MIT",
   "private": false,
